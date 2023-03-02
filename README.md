@@ -95,18 +95,20 @@
 ---
 1.纺纱机的纱催力未调好造成的。可能是纱催力太小或太大，经纱不能按照正确的规律进入纺织器中，导致经纱松散或拉伸不均匀等问题。   
 
-![Image text](https://github.com/TangToutou/NatProject/blob/main/shuangjing.jpg)  
+
 双经
 ---
+![Image text](https://github.com/TangToutou/NatProject/blob/main/image/shuangjing.jpg)    
 1.纱线质量不佳：纱线质量不佳会导致经纱和纬纱不能正常织物，从而出现双经的问题。   
 2.纱线搓毛：纱线搓毛会使经纱和纬纱纠缠在一起，从而出现双经的问题。   
 3.纱线结头多：纱线结头多会使经纱和纬纱纠缠在一起，从而出现双经的问题。   
 4.经纱和纬纱的抽绳不够：经纱和纬纱的抽绳不够会导致经纱和纬纱纠缠在一起，从而出现双经的问题。   
 5.纱线抽绳不够：纱线抽绳不够会使经纱和纬纱纠缠在一起，从而出现双经的问题。   
 
-![Image text](https://github.com/TangToutou/NatProject/blob/main/image/duanjing.jpg)  
+
 断经
 ---
+![Image text](https://github.com/TangToutou/NatProject/blob/main/image/duanjing.jpg)    
 1.纺纱机的毛毯轮在运转过程中可能会发生跳毛，造成经纱断纱。   
 2.纺纱机的织网轮在运转过程中可能会发生网纱断纱，造成断经。   
 3.纺纱机的驱动部分可能会发生故障，导致织网轮和毛毯轮停止运转，从而造成断经。   
@@ -128,9 +130,10 @@
 2.经线的摆放不当，   
 3.编织技术不够熟练。   
 
-![Image text](https://github.com/TangToutou/NatProject/blob/main/image/duanwei.png)  
+
 断纬
 ---
+![Image text](https://github.com/TangToutou/NatProject/blob/main/image/duanwei.png)  
 1.纺纱机的设备及配件老化或损坏导致的。   
 2.纺纱机的编织器出现问题   
 3.纱线收线器出现故障，使纱线断裂导致断纬。   
@@ -224,7 +227,22 @@
 3.纱梭和丝杆的磨损以及程序控制器出现问题等   
 
 
+结构分类图
+---
+![Image text](https://github.com/TangToutou/NatProject/blob/main/image/fenlei.jpg)  
+
+有误区地方
+===
+1：粗分类与细分类相互交织。
+		例：3点状→飞花纺入与11大类冲突   
+		例：3点状→点状   
+2：多种类别重名 
+		例：污渍纱→污渍纱   
+		    污渍纱→污渍纱6   
+		    其中（小类）污渍纱和污渍纱6有什么区别？   
 
 
-
+有需求的地方
+===
+1：每种细分类能不能提供几张样片？我都不知道什么叫大肚纱什么叫档子什么叫飞花，我怎么打标签嘛。
 
